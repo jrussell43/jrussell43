@@ -1,17 +1,13 @@
-## Howdy Stranger 👋
-<hr>
+### Howdy Stranger 👋
 
-<!--
-**jrussell43/jrussell43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little web corner. I'm a current **DMIT** student seeking to utilize my new skills to create a dashing portfolio. I've learned a variety of languages and trialed in out-of-class activities. I plan to partake in my institution's Capstone project and pursue a future in **web development**.
 
-Here are some ideas to get you started:
+##Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##Interests
+
+
+
+
+
