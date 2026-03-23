@@ -31,8 +31,7 @@ I'm a recent graduate who takes my real-world problems and turns them into passi
     ![Acuity Scheduling](https://img.shields.io/badge/Acuity_Scheduling-00455E?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
     **Design & Creative Tools**
-*   **Adobe Creative Cloud:**
-    ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+*   ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
     ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
     ![Acrobat](https://img.shields.io/badge/Adobe_Acrobat-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
     ![Firefly](https://img.shields.io/badge/Adobe_Firefly-4b11be?style=for-the-badge&logo=adobe&logoColor=white)
