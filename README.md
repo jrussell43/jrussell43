@@ -13,20 +13,23 @@ I'm a recent graduate who takes my real-world problems and turns them into passi
 
 ### 🛠 Tech Stack & Skills
 *   **Languages:**
-*   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-*   **Frameworks & Libraries:** 
-*   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    
+*   **Frameworks & Libraries:**
+   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-*   **CMS & Platforms:** 
-*   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+    
+*   **CMS & Platforms:**
+   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
     ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
     ![Acuity Scheduling](https://img.shields.io/badge/Acuity_Scheduling-00455E?style=for-the-badge&logo=googlecalendar&logoColor=white)
+    
 ---
 
 ## 📂 Featured Projects
@@ -36,7 +39,7 @@ I'm a recent graduate who takes my real-world problems and turns them into passi
 > **Tools:** SQL Server, PHP, Bootstrap, 
 
 **Description & Process:**  
-[This was the final project for my PHP fundamentals class. Our goal was to use all of our knowledge to create a CRUD application with only PHP, SQL, and Bootstrap components. My group chose prehistoric creatures as our idea. I was given the role of Database Builder. I went through a few changes throughout the early stages, such as changing how we'd organize database entries and adding extra columns to make filtering easier for the user. ]
+This was the final project for my PHP fundamentals class. Our goal was to use all of our knowledge to create a CRUD application with only PHP, SQL, and Bootstrap components. My group chose prehistoric creatures as our idea. I was given the role of Database Builder. I went through a few changes throughout the early stages, such as changing how we'd organize database entries and adding extra columns to make filtering easier for the user.
 
 **Key Accomplishments:**
 *   Developed the backend for a CRUD application
@@ -70,7 +73,7 @@ I have a habit of having strong creative sparks throughout the year. This is the
 > **Tools:** HTML, CSS, JavaScript
 
 **Description & Process:**  
-[Describe the creative and technical process. "I modeled assets in Maya and wrote custom shaders in Unity to achieve a stylized look."]
+Describe the creative and technical process. "I modeled assets in Maya and wrote custom shaders in Unity to achieve a stylized look."
 
 **Key Accomplishments:**
 *   Designed a procedural terrain generation system.
@@ -86,10 +89,11 @@ I have a habit of having strong creative sparks throughout the year. This is the
 I am always open to discussing new projects or opportunities. 
 
 *   **Email:** [rodney.russell2005@gmail.com](mailto:rodney.russell2005@gmail.com)
-*   **Phone:** (587) 778-6100 *(Optional)*
+*   **Phone:** +1 (587) 778-6100
 *   **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/jake-russell-ba04062bb/)
 
 ---
+
 *Navigating this world with ❤️*
 *- Rodney Russell*
 
