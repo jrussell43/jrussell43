@@ -29,7 +29,16 @@ I'm a recent graduate who takes my real-world problems and turns them into passi
 *   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
     ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
     ![Acuity Scheduling](https://img.shields.io/badge/Acuity_Scheduling-00455E?style=for-the-badge&logo=googlecalendar&logoColor=white)
-    
+
+    **Design & Creative Tools**
+*   **Adobe Creative Cloud:**
+    ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+    ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+    ![Acrobat](https://img.shields.io/badge/Adobe_Acrobat-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
+    ![Firefly](https://img.shields.io/badge/Adobe_Firefly-4b11be?style=for-the-badge&logo=adobe&logoColor=white)
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+    ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+  
 ---
 
 ## Featured Projects
