@@ -1,5 +1,4 @@
 
-# <img src="https://via.placeholder.com/150" align="right" width="120" /> 
 Rodney Russell
 ### Web Developer
 
@@ -54,7 +53,7 @@ This was the final project for my PHP fundamentals class. Our goal was to use al
 *   Indexed and organised database entries for efficient retrieval
 
 **Preview:**
-![Project Screenshot](https://via.placeholder.com/600x300?text=Screenshot+of+Project+One)
+![Project Screenshot](img/dinobase.png)
 
 ---
 
@@ -70,7 +69,7 @@ I have a habit of having strong creative sparks throughout the year. This is the
 *   Gained valuable skills in designing and research
 
 **Visuals:**
-![Project Video/Gif](https://via.placeholder.com/600x300?text=Animated+GIF+of+Project+Two)
+![Project Video/Gif](img/grizzco-industries.png)
 
 ---
 
@@ -86,7 +85,7 @@ This project was made to refresh my skills in web usability principles.
 *   Improved design philosophy throughout the build environment
 
 **Visuals:**
-![Project Screenshot](https://via.placeholder.com/600x300?text=Render+from+Maya)
+![Project Screenshot](img/star-trek.png)
 
 ---
 
