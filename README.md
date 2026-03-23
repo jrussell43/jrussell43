@@ -1,5 +1,6 @@
-# <!-- Insert your Logo Link below -->
-# <img src="https://via.placeholder.com/150" align="right" width="120" /> Rodney Russell
+
+# <img src="https://via.placeholder.com/150" align="right" width="120" /> 
+Rodney Russell
 ### Web Developer
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:rodney.russell2005@gmail.com)
@@ -18,41 +19,45 @@ I'm a recent graduate who takes my real-world problems and turns them into passi
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-*   **Frameworks/Tools:** ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![Maya](https://img.shields.io/badge/-Maya-0696D7?style=flat-square&logo=autodesk-maya)
-*   **Core Strengths:** [e.g., Agile Development, UI/UX Design, Database Management, Problem Solving]
-
+*   **Frameworks & Libraries:** 
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+*   **CMS & Platforms:** 
+    ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+    ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
+    ![Acuity Scheduling](https://img.shields.io/badge/Acuity_Scheduling-00455E?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ---
 
 ## 📂 Featured Projects
 
-### 1️⃣ Project Title
-> **Role:** Lead Developer / UI Designer  
-> **Tools:** .NET, SQL Server, Bootstrap
+### 1️⃣ Dinobase
+> **Role:** Database Builder 
+> **Tools:** SQL Server, PHP, Bootstrap, 
 
 **Description & Process:**  
-[Explain what the project is and why you built it. Describe your process: "I started by wireframing the user flow in Figma, then implemented the backend using..."]
+[This was the final project for my PHP fundamentals class. Our goal was to use all of our knowledge to create a CRUD application with only PHP, SQL, and Bootstrap components. My group chose prehistoric creatures as our idea. I was given the role of Database Builder. I went through a few changes throughout the early stages, such as changing how we'd organize database entries and adding extra columns to make filtering easier for the user. ]
 
 **Key Accomplishments:**
-*   Implemented a secure login system using OAuth 2.0.
-*   Reduced database query time by 30% through indexing.
-*   [Add another bullet point about a specific win].
+*   Developed the backend for a CRUD application
+*   Indexed and organised database entries for efficient retrieval
 
-**Visuals:**
+**Preview:**
 ![Project Screenshot](https://via.placeholder.com/600x300?text=Screenshot+of+Project+One)
 [🔗 View Live Demo](https://link-to-demo.com) | [💻 Source Code](https://github.com/your-repo)
 
 ---
 
-### 2️⃣ Project Title
-> **Role:** Full-Stack Developer  
-> **Tools:** Java, Spring Boot, MySQL
+### 2️⃣ Grizzco Industries
+> **Role:** Full-Stack Developer / Graphic Designer  
+> **Tools:** HTML, CSS, JavaScript, PHP
 
 **Description & Process:**  
-[Explain the problem this project solved. Describe your process: "I focused on creating a RESTful API that could handle..."]
+I have a habit of having strong creative sparks throughout the year. This is the product of that. I wanted to push the limits of what I could do at the time and create a fan website for a beloved video game series. The goal is to create an interactive, fun website with a dark twist. While this isn't finished yet, I intend to remake the whole website with my improved knowledge and make it compatible with all devices. I spent a lot of time designing and staying as close to the original source material as possible. This taught me how to stay efficient in my work and what to prioritise in development. 
 
 **Key Accomplishments:**
-*   Successfully integrated a third-party API for real-time weather data.
-*   Automated unit testing which caught 15+ bugs before deployment.
+*   Acquired how to stay efficient in the workplace
+*   Gained valuable skills in designing and research
 
 **Visuals:**
 ![Project Video/Gif](https://via.placeholder.com/600x300?text=Animated+GIF+of+Project+Two)
@@ -60,9 +65,9 @@ I'm a recent graduate who takes my real-world problems and turns them into passi
 
 ---
 
-### 3️⃣ Project Title
-> **Role:** Graphics Programmer / 3D Artist  
-> **Tools:** Maya, Unity, C#
+### 3️⃣ Star Trek Designer
+> **Role:** Web Designer / Graphic Designer  
+> **Tools:** HTML, CSS, JavaScript
 
 **Description & Process:**  
 [Describe the creative and technical process. "I modeled assets in Maya and wrote custom shaders in Unity to achieve a stylized look."]
@@ -80,12 +85,12 @@ I'm a recent graduate who takes my real-world problems and turns them into passi
 ## 📬 Contact Information
 I am always open to discussing new projects or opportunities. 
 
-*   **Email:** [yourname@email.com](mailto:yourname@email.com)
-*   **Phone:** (555) 123-4567 *(Optional)*
-*   **Contact Form:** [Link to a Google Form or Typeform]
-*   **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com)
+*   **Email:** [rodney.russell2005@gmail.com](mailto:rodney.russell2005@gmail.com)
+*   **Phone:** (587) 778-6100 *(Optional)*
+*   **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/jake-russell-ba04062bb/)
 
 ---
-*Created with ❤️ by [Your Name]*
+*Navigating this world with ❤️*
+*- Rodney Russell*
 
 
