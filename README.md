@@ -55,7 +55,6 @@ This was the final project for my PHP fundamentals class. Our goal was to use al
 
 **Preview:**
 ![Project Screenshot](https://via.placeholder.com/600x300?text=Screenshot+of+Project+One)
-[🔗 View Live Demo](https://link-to-demo.com) | [💻 Source Code](https://github.com/your-repo)
 
 ---
 
@@ -72,7 +71,6 @@ I have a habit of having strong creative sparks throughout the year. This is the
 
 **Visuals:**
 ![Project Video/Gif](https://via.placeholder.com/600x300?text=Animated+GIF+of+Project+Two)
-[🔗 View Live Demo](https://link-to-demo.com) | [💻 Source Code](https://github.com/your-repo)
 
 ---
 
@@ -89,7 +87,6 @@ This project was made to refresh my skills in web usability principles.
 
 **Visuals:**
 ![Project Screenshot](https://via.placeholder.com/600x300?text=Render+from+Maya)
-[🔗 View Case Study](https://link-to-case-study.com) | [💻 Source Code](https://github.com/your-repo)
 
 ---
 
