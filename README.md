@@ -8,12 +8,12 @@ Rodney Russell
 
 ---
 
-## 🚀 About Me
+## About Me
 I'm a recent graduate who takes my real-world problems and turns them into passionate solutions. I like experimenting with new tools and learning the most recent tech.
 
-### 🛠 Tech Stack & Skills
+### Skills
 *   **Languages:**
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+*   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,20 +21,20 @@ I'm a recent graduate who takes my real-world problems and turns them into passi
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
     
 *   **Frameworks & Libraries:**
-   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+*   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
     
 *   **CMS & Platforms:**
-   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+*   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
     ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
     ![Acuity Scheduling](https://img.shields.io/badge/Acuity_Scheduling-00455E?style=for-the-badge&logo=googlecalendar&logoColor=white)
     
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 1️⃣ Dinobase
+###  Dinobase
 > **Role:** Database Builder 
 > **Tools:** SQL Server, PHP, Bootstrap, 
 
@@ -51,7 +51,7 @@ This was the final project for my PHP fundamentals class. Our goal was to use al
 
 ---
 
-### 2️⃣ Grizzco Industries
+### Grizzco Industries
 > **Role:** Full-Stack Developer / Graphic Designer  
 > **Tools:** HTML, CSS, JavaScript, PHP
 
@@ -68,16 +68,16 @@ I have a habit of having strong creative sparks throughout the year. This is the
 
 ---
 
-### 3️⃣ Star Trek Designer
+### Star Trek Designer
 > **Role:** Web Designer / Graphic Designer  
 > **Tools:** HTML, CSS, JavaScript
 
 **Description & Process:**  
-Describe the creative and technical process. "I modeled assets in Maya and wrote custom shaders in Unity to achieve a stylized look."
+This project was made to refresh my skills in web usability principles. 
 
 **Key Accomplishments:**
-*   Designed a procedural terrain generation system.
-*   Optimized 3D assets to maintain 60FPS on mobile devices.
+*   Implemented design principles 
+*   Improved design philosophy throughout the build environment
 
 **Visuals:**
 ![Project Screenshot](https://via.placeholder.com/600x300?text=Render+from+Maya)
@@ -96,5 +96,3 @@ I am always open to discussing new projects or opportunities.
 
 *Navigating this world with ❤️*
 *- Rodney Russell*
-
-
